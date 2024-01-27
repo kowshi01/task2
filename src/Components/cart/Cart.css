@@ -1,0 +1,26 @@
+.cartButton{
+    position: relative;
+  float: right;
+}
+.cartDetails{
+  width: 30%;
+  height: 50%;
+  position: absolute;
+  top:20%;
+  background-color: bisque;
+  margin-left: 60%;
+  padding: 10px 30px 10px 0;
+}
+.totalprice{
+  margin-left:50px ;
+  padding: 10px;
+}
+.buttons{
+  display: flex;
+  justify-content:space-around;
+  margin-left: 50px;
+}
+.buttons button{
+  margin: 10px;
+  width: 50%;
+}

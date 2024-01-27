@@ -1,0 +1,28 @@
+.candyadd{
+    background-color: rgb(206, 138, 56);
+    padding: 10px;
+    border: 2px solid black;
+    width: 50vw;
+}
+.displayCandy{
+    width: 50vw;
+}
+ul{
+    list-style: none;
+    margin: 0;
+}
+.listCandy{
+    border: solid black;
+    padding: 10px;
+}
+.candytitle{
+    font-size: 25px;
+    font-weight: 800;
+}
+.candydescription , .candyprice{
+    font-size: 20px;
+}
+button{
+    font-size: 15px;
+    padding: 10px;
+}
